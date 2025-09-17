@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>SayıSafari Gizlilik Politikası</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Gizlilik Politikası</h1>
+  <p>SayıSafari uygulaması hiçbir kişisel veri toplamaz.</p>
+  <p>Uygulama yalnızca temel matematik işlemleri sunar ve çocuklara yönelik eğitici içerikler içerir.</p>
+  <p>Uygulama içinde reklam, konum, kamera veya mikrofon erişimi bulunmaz.</p>
+  <p>Tüm veriler cihaz içinde kalır ve dışa aktarılmaz.</p>
+  <p>Uygulama, çocukların güvenliğini ve gizliliğini ön planda tutar.</p>
+</body>
+</html>
